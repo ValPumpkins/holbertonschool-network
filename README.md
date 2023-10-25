@@ -1,4 +1,4 @@
-# <p align="center">Network</p>
+# <p align="center">🕸️ Network</p>
 ## <p align="center">🎓 Holberton School - Lille</p>
 ### 🗓️ from October 25, 2023 to (...)
 
